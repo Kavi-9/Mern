@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Web journey begins</title>
+<body>
+  <h1>Hello</h1>  
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut libero quaerat excepturi, iure quis incidunt doloribus voluptatibus aliquid veritatis eveniet enim recusandae ullam vero quas! Quos cupiditate qui dolorum soluta.</p>
+ <button>click to next</button>
+ <a href = "https://www.linkedin.com"> move to next </a>
+  <image src = "https://ik.imagekit.io/SKavipriya/IMG_20250622_104633.jpg?updatedAt=1750569592795" alt = "deep quote" />
+</body>
+</html>
