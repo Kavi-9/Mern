@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <p>ADDED IMAGE VIA LOCAL STORAGE</p>
+<img src = "https://uploads.onecompiler.io/43nktxfeb/43nktzfhu/apple.jpg"></image>
+    
+    <p> ADDED IMAGE VIA CDN</p>
+    <image src = "https://ik.imagekit.io/SKavipriya/apple.jpg?updatedAt=1750574735353"
+    <p>ADDED VIDEO VIA CDN</p>
+   <video src = "https://ik.imagekit.io/SKavipriya/Birds%20Video?updatedAt=1750647331568" controlswidth="400" height="300" controls></video>
+    <p>CREATE A BASIC FORM</p>
+    <form>
+    <label for="name">Username:</label>
+    <input type ="text"/><br /> <br>
+    <label for="password">Password:</label>
+    <input type = "password"/><br>
+    <button>submit</button>
+    <ul>
+    <li>-copyright:©</li>
+    <li>-trademark:¢</li>
+    <li>-ampersand:&</li>
+</ul>
+    </form>
+</body>
+</html>
